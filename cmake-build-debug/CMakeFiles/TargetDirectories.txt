@@ -1,0 +1,3 @@
+/mnt/d/DEV/CLION/PUISSANCE4/cmake-build-debug/CMakeFiles/PUISSANCE4.dir
+/mnt/d/DEV/CLION/PUISSANCE4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/DEV/CLION/PUISSANCE4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
